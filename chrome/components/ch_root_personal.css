@@ -16,7 +16,7 @@
   
   --newtab-pinnedsites-background: color-mix(in srgb, white 5%, transparent);               /* color - fondo de sitios fijados y barra de búsqueda*/
   
-  --selected-text-background: #c82fe2;                                 /* Selected text background */
+  --selected-text-background: #8b6cef;                                 /* Selected text background */
   
   --personal-blur: blur(26px) ;                                                              /* Utilizado para personalizar userContent.css */
   
